@@ -20,3 +20,4 @@ Excel → Python (Pandas) → SQL (SQLite) → Tableau
 - `top_locations.png` — Top 10 areas chart
 - `rating_distribution.png` — Rating distribution chart
 - `online_vs_rating.png` — Delivery vs rating chart
+- `Dashboard 1.png` — Tableau dashboard screenshot showing all 5 visuals
